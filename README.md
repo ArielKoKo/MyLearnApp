@@ -5,5 +5,5 @@
 * 設定按鈕動作
 * 設定按鈕按空白處收回
 
-![image]()
+![image](https://github.com/ArielKoKo/MyLearnApp/blob/main/PHOTO%20%26%20GIF/01_PrimeNumber.gif)
 
