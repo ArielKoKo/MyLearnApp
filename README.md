@@ -7,3 +7,7 @@
 
 ![image](https://github.com/ArielKoKo/MyLearnApp/blob/main/PHOTO%20%26%20GIF/01_PrimeNumber.gif)
 
+## 02 - Lottery
+* 利用Int(arc4random() % 49) + 1建立隨機數字
+
+![image](https://github.com/ArielKoKo/MyLearnApp/blob/main/PHOTO%20%26%20GIF/02_Lottery.gif)
