@@ -11,3 +11,9 @@
 * 利用Int(arc4random() % 49) + 1建立隨機數字
 
 ![image](https://github.com/ArielKoKo/MyLearnApp/blob/main/PHOTO%20%26%20GIF/02_Lottery.gif)
+
+## 03 - DiceGame 骰骰子
+* 兩顆骰子隨便出現兩面數字
+* 骰子每骰一次就換一次畫面
+
+![image](https://github.com/ArielKoKo/MyLearnApp/blob/main/PHOTO%20%26%20GIF/03_DiceGame.gif)
